@@ -11,36 +11,7 @@ This repo is a microsoft team auto-joiner. Made with Python! Made By: AKALolGame
 ## Requirements
    - Python3 ([Download](https://www.python.org/downloads/)) 
 
-d
-
-d
-sd
-as
-d
-a
-d
-s
-d
-sa
-d
-asd
-s
-d
-sa
-sa
-d
-sa
-d
-d
-sdsdsad
-d
-s
-d
-as
-d
-sa
-
-sad
-
 ##  Editing
+  - Config.json
+```
 
